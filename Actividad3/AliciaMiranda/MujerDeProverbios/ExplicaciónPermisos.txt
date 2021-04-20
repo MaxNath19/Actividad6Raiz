@@ -1,0 +1,6 @@
+Permisos para directorios:
+* Lectura: Permite ver el contenido.
+* Escritura: Permite editar, crear y eliminar directorios dentro de la carpeta.
+* Ejecución: Permite entrar al directorio.
+
+

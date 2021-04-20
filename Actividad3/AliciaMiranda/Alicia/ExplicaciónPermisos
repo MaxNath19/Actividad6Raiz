@@ -1,0 +1,9 @@
+Niveles de archivo
+* Propietario: Aquel que genera o crea un archivo o carpeta del cual tenga derechos.
+* Grupo: Aquel formado por más de un usuario.
+* Otros: Aquel que no no es propietario ni del grupo propietario.
+Permisos:
+ Archivo:
+  * Lectura: Permite ver el contenido.
+  * Escritura: Permite crear o eliminar del contenido del archivo así como modificar sus permisos.
+  * Ejecución: Permite ejecutar el contenido del archivo.
